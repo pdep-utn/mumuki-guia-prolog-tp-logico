@@ -1,11 +1,11 @@
 Las promesas influyen en la gente a la hora de las elecciones, por lo que podemos obtener cuanto se ve modificada la intención de voto de cada partido. Cada promesa tendrá un diferente peso en el electorado:
-Para la inflación, la intención de votos disminuirá de manera directamente proporcional al promedio de las cotas de la promesa realizada.
-En cuanto a los nuevos puestos de trabajo, si se promete realizar más de 50.000 nuevos puestos, sumará 3%. En el resto de los casos no sumará nuevos votos al partido.
-Por último, las construcciones impactarán según el edilicio a construir:
-hospitales: sin importar la cantidad, suma 2%.
-jardines y escuelas: suma 0,1% por cada edilicio.
-comisarías: suma 2% si se construyen exactamente 200.
-universidades: la gente descree que un partido construya una universidad, por ende no suma.
+* Para la inflación, la intención de votos disminuirá de manera directamente proporcional al promedio de las cotas de la promesa realizada.
+* En cuanto a los nuevos puestos de trabajo, si se promete realizar más de 50.000 nuevos puestos, sumará 3%. En el resto de los casos no sumará nuevos votos al partido.
+* Por último, las construcciones impactarán según el edilicio a construir:
+* hospitales: sin importar la cantidad, suma 2%.
+* jardines y escuelas: suma 0,1% por cada edilicio.
+* comisarías: suma 2% si se construyen exactamente 200.
+* universidades: la gente descree que un partido construya una universidad, por ende no suma.
 cualquier otro edilicio resta un 1% porque la población lo considera un gasto innecesario.
 Se pide modelar el predicado influenciaDePromesas/2 para relacionar una promesa con la variación de intención de votos.
 
