@@ -1,10 +1,10 @@
 Contamos con la intención de voto de cada partido en cada provincia (en porcentajes): 
 % intencionDeVotoEn(Provincia, Partido, Porcentaje)
-Modelar el predicado leGanaA/3 el cual relaciona a dos candidatos y una provincia, y nos dice si un candidato le ganaría a otro en una provincia. Para ello:
+Modelar el predicado **leGanaA/3 **el cual relaciona a dos candidatos y una provincia, y nos dice si un candidato le ganaría a otro en una provincia. Para ello:
 
-El partido del ganador debe competir en la provincia. 
-Si el partido del perdedor también compite en la provincia, se evalúa el que tenga el mayor porcentaje de votos en la provincia. Si hay empate, no se cumple la relación.
-Si ambos candidatos pertenecen al mismo partido, la relación se cumple si el partido compite en la provincia. 
+* El partido del ganador debe competir en la provincia. 
+* Si el partido del perdedor también compite en la provincia, se evalúa el que tenga el mayor porcentaje de votos en la provincia. Si hay empate, no se cumple la relación.
+* Si ambos candidatos pertenecen al mismo partido, la relación se cumple si el partido compite en la provincia. 
 
 Por ejemplo:
 
