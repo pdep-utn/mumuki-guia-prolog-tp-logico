@@ -1,0 +1,9 @@
+---
+name: TP LÓGICO
+locale: es
+type: practice
+beta: false
+language: prolog
+id_format: "%05d"
+order: []
+private: false
