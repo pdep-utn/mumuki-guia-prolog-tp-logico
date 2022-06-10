@@ -10,7 +10,7 @@ cualquier otro edilicio resta un 1% porque la población lo considera un gasto i
 Se pide modelar el predicado influenciaDePromesas/2 para relacionar una promesa con la variación de intención de votos.
 
 Por ejemplo:
-Para una promesa de inflación entre 2% y 4%, la intención de voto será de -3%
-Si se prometen 800000 nuevos puestos de trabajo, la intención será de 3%. En cambio, para 40000 nuevos puestos, no habrá intenciones de votos para la promesa
-Una promesa de construir 1000 hospitales, 100 jardines y 5 escuelas sumará 2% por los hospitales y 10,5% por los jardines y escuelas, lo que da un total de 12,5%
-Una promesa de construir 100 hospitales, 1 universidad y 200 comisarías sumará 2% por los hospitales y 2% por las comisarías, dando un total de 4%.
+* Para una promesa de inflación entre 2% y 4%, la intención de voto será de -3%
+* Si se prometen 800000 nuevos puestos de trabajo, la intención será de 3%. En cambio, para 40000 nuevos puestos, no habrá intenciones de votos para la promesa
+* Una promesa de construir 1000 hospitales, 100 jardines y 5 escuelas sumará 2% por los hospitales y 10,5% por los jardines y escuelas, lo que da un total de 12,5%
+* Una promesa de construir 100 hospitales, 1 universidad y 200 comisarías sumará 2% por los hospitales y 2% por las comisarías, dando un total de 4%.
