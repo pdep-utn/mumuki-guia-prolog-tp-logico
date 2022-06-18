@@ -1,2 +1,2 @@
-test(test_description_example):-
-	aPredicate(anIndividual).
+test(frank_claire_catherine_candidatos_rojos, set(Persona == [frank,claire,catherine])):-
+    esCandidato(Persona,rojo).
