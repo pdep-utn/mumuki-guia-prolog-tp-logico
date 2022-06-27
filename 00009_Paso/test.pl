@@ -6,5 +6,5 @@ test(gana_frank_jackie_misiones, fail):-
 	leGanaA(frank, jackie, misiones).
 test(gana_frank_claire_tierraDelFuego):-
 	leGanaA(frank, claire, tierraDelFuego).
-test(gana_heather_linda_buenosAires):-
-	leGanaA(heather, linda, buenosAires).
+%test(gana_heather_linda_buenosAires):-
+%	leGanaA(heather, linda, buenosAires).
